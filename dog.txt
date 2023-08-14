@@ -1,3 +1,0 @@
-hello dog 1
-hello dog 2
-hello dog 3
