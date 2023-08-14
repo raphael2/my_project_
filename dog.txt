@@ -1,6 +1,6 @@
 dog line 1
 dog line 
-dog line 3
+dog line 
 dog line 4
 dog line 5
 dog line 6
